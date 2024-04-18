@@ -1,3 +1,6 @@
 [submodule "TankerBackend"]
 	path = TankerBackend
 	url = https://github.com/Manoj-14/rapid-tanker-microservice.git
+[submodule "TankerFrontend"]
+	path = TankerFrontend
+	url = https://github.com/Manoj-14/rapid-tanker-frontend.git
